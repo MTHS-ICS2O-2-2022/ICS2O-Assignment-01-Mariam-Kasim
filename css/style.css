@@ -7,9 +7,9 @@
 */
 
 .mdl-layout__header-row {
-justify-content: center;
+  justify-content: center;
   padding: 0;
-  }
+}
 
 .mdl-layout__content {
   padding-left: 15pt;
@@ -23,19 +23,17 @@ justify-content: center;
 }
 
 .mdl-textfield__error {
-  color: rgb(252, 178, 251);
+  color: rgb(252 178 251);
 }
 
 body {
   text-align: center;
-}
-
-body {
   margin: auto;
   width: 640px;
   padding: 20px;
   font-family:serif, Georgia, 'Times New Roman', Times, serif;
-  color: #7c95ad;
+  color:
+  #7c95ad;
 }
 
 body {

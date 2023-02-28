@@ -16,20 +16,15 @@
   padding-left: 15pt;
   padding-right: 15pt;
   padding-top: 15pt;
-  font-style: italic;
+  font-style: normal;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: larger;
+}
+
+.mdl-layout_title {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-.mdl-ripple {
-  background: #caa6ff;
-  opacity: 0.001;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-}
-
-.mdl-textfield__error {
-  color: rgb(252 178 251);
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-}
 
 body {
   text-align: center;
@@ -38,5 +33,4 @@ body {
   padding: 20px;
   font-size: 100%;
   background-color: #f5f0e6;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 } 

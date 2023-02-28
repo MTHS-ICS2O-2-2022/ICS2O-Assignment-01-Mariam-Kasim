@@ -9,12 +9,14 @@
 .mdl-layout__header-row {
   justify-content: center;
   padding: 0;
-}
+  }
 
 .mdl-layout__content {
   padding-left: 15pt;
   padding-right: 15pt;
   padding-top: 15pt;
+  font-style: italic;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .mdl-ripple {
@@ -31,12 +33,7 @@ body {
   margin: auto;
   width: 640px;
   padding: 20px;
-  font-family: 
-  
-  serif, Georgia, 'Times New Roman'
-  #7c95ad;
   font-size: 100%;
-}
-body {
   background-color: #f5f0e6;
-}
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+} 

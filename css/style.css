@@ -23,10 +23,12 @@
 .mdl-ripple {
   background: #caa6ff;
   opacity: 0.001;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .mdl-textfield__error {
   color: rgb(252 178 251);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 body {

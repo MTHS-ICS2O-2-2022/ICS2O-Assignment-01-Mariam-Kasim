@@ -6,15 +6,13 @@
 /* Due to error in MDL : https://github.com/google/material-design-lite/issues/5281
 */
 h1 {
-
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   background-color: #607d8b;
-
   font-size: 40px;
 }
 
-h2{
-  background-color: #607d8b ;
+h2 {
+  background-color: #607d8b;
 }
 
 .mdl-layout__content {
@@ -22,7 +20,7 @@ h2{
   padding-right: 15pt;
   padding-top: 15pt;
   font-style: normal;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   background-color: #f5f0e6;
   font-size: larger;
 }
@@ -34,4 +32,3 @@ body {
   padding: 20px;
   font-size: 100%;
 }
-

@@ -5,16 +5,16 @@
 
 /* Due to error in MDL : https://github.com/google/material-design-lite/issues/5281
 */
-h1{
+h1{ 
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  background-color:#607d8b;;
+  background-color: #607d8b;
+  
   font-size: 40px;
 }
 
 h2{
   background-color: #607d8b ;
 }
-
 
 .mdl-layout__content {
   padding-left: 15pt;
@@ -26,11 +26,11 @@ h2{
   font-size: larger;
 }
 
-
 body {
   text-align: center;
   margin: auto;
   width: 640px;
   padding: 20px;
   font-size: 100%;
-} 
+}
+
